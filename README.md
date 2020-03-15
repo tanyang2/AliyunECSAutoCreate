@@ -11,7 +11,7 @@ AccessKeyId：阿里云api密钥id
 
 AccessSecret：阿里云api密钥
 
-RegionId：阿里云区域，默认 ap-southeast-1 为新加坡
+RegionId：阿里云区域，默认 cn-hongkong 为香港
 
 InstanceName:新建的服务器名称，默认 “shadowsocks-server”
 
